@@ -1,0 +1,14 @@
+
+14500
+2071.4285714285716
+[ 2500, 4000, 2500, 3000 ]
+TODO : complétez l’analyse des dépenses.
+Total des depenses: 14500 FCFA
+Moyenne par jour: 2071.4285714285716 FCFA
+Grosses depenses (>2000): [ 2500, 4000, 2500, 3000 ] FCFA
+Depenses maximale: 4000 FCFA
+Depenses triees: [
+     0, 1000, 1500,
+  2500, 2500, 3000,
+  4000
+] FCFA
